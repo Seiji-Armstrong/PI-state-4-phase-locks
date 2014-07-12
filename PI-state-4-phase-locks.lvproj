@@ -3285,6 +3285,9 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Top_Level_Control_1SDI_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/Top_Level_Control_1SDI_v00.vi"/>
 		<Item Name="DAQ 1SDI v05.vi" Type="VI" URL="../Project_Files/DAQ VIs/DAQ 1SDI v05.vi"/>
+		<Item Name="Init2DAQ.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Init2DAQ.vi"/>
+		<Item Name="DAQ 1SDI v06.vi" Type="VI" URL="../Project_Files/DAQ VIs/DAQ 1SDI v06.vi"/>
+		<Item Name="Record2DAQ.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Record2DAQ.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="niScope vertical coupling.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope vertical coupling.ctl"/>
@@ -3405,6 +3408,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Files_names_v02.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Files_names_v02.vi"/>
 			<Item Name="Monitor switches.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Monitor switches.ctl"/>
 			<Item Name="shotnoise.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/shotnoise.vi"/>
+			<Item Name="BinaryRecordCh012.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/BinaryRecordCh012.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
