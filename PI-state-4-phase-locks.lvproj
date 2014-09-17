@@ -3197,31 +3197,31 @@ AddOutputFilter chunkFilter
 				<Item Name="vi.lib" Type="Folder">
 					<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
 				</Item>
-				<Item Name="1SDI Control Cluster.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1SDI Control Cluster.ctl"/>
-				<Item Name="1SDI Lock Point.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1SDI Lock Point.ctl"/>
-				<Item Name="1SDI Max.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1SDI Max.ctl"/>
-				<Item Name="1SDI MaxMin.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1SDI MaxMin.ctl"/>
-				<Item Name="1SDI Min.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1SDI Min.ctl"/>
-				<Item Name="1SDI Output.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1SDI Output.ctl"/>
-				<Item Name="1SDI PII Scan State.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1SDI PII Scan State.ctl"/>
-				<Item Name="1SDI Reset MaxMin.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1SDI Reset MaxMin.ctl"/>
-				<Item Name="1SDI State.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1SDI State.ctl"/>
-				<Item Name="Control 1SDI Input.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Control 1SDI Input.ctl"/>
-				<Item Name="Error Scale 1SDI.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Error Scale 1SDI.ctl"/>
-				<Item Name="Error Signals 1SDI.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Error Signals 1SDI.ctl"/>
-				<Item Name="FPGA Inputs 1SDI.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/FPGA Inputs 1SDI.ctl"/>
+				<Item Name="1BS3HD Control Cluster.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Control Cluster.ctl"/>
+				<Item Name="1BS3HD Lock Point.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Lock Point.ctl"/>
+				<Item Name="1BS3HD Max.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Max.ctl"/>
+				<Item Name="1BS3HD MaxMin.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD MaxMin.ctl"/>
+				<Item Name="1BS3HD Min.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Min.ctl"/>
+				<Item Name="1BS3HD Output.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Output.ctl"/>
+				<Item Name="1BS3HD PII Scan State.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD PII Scan State.ctl"/>
+				<Item Name="1BS3HD Reset MaxMin.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Reset MaxMin.ctl"/>
+				<Item Name="1BS3HD State.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD State.ctl"/>
+				<Item Name="1BS3HD Control Input.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Control Input.ctl"/>
+				<Item Name="1BS3HD Error Scale.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Error Scale.ctl"/>
+				<Item Name="1BS3HD Error Signals.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Error Signals.ctl"/>
+				<Item Name="1BS3HD FPGA Inputs.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD FPGA Inputs.ctl"/>
 				<Item Name="Input_4ch_v00.vi" Type="VI" URL="../Project_Files/FPGA VIs/SubVIs/Input_4ch_v00.vi"/>
-				<Item Name="Lock Thresh 1SDI.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Lock Thresh 1SDI.ctl"/>
-				<Item Name="Max Min_v00.vi" Type="VI" URL="../Project_Files/FPGA VIs/SubVIs/Max Min_v00.vi"/>
+				<Item Name="1BS3HD Lock Thresh.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Lock Thresh.ctl"/>
+				<Item Name="MaxMin_4ch_v00.vi" Type="VI" URL="../Project_Files/FPGA VIs/SubVIs/MaxMin_4ch_v00.vi"/>
 				<Item Name="Output_4ch_v00.vi" Type="VI" URL="../Project_Files/FPGA VIs/SubVIs/Output_4ch_v00.vi"/>
 				<Item Name="PII individual.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/PII individual.ctl"/>
-				<Item Name="PII_Controller_1SDI_v00.vi" Type="VI" URL="../Project_Files/FPGA VIs/SubVIs/PII_Controller_1SDI_v00.vi"/>
+				<Item Name="PII_Controller_v00.vi" Type="VI" URL="../Project_Files/FPGA VIs/SubVIs/PII_Controller_v00.vi"/>
 				<Item Name="Safety First.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Safety First.ctl"/>
 				<Item Name="Scan_4ch_v00.vi" Type="VI" URL="../Project_Files/FPGA VIs/SubVIs/Scan_4ch_v00.vi"/>
 				<Item Name="Scope.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Scope.ctl"/>
-				<Item Name="Signals 1SDI.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Signals 1SDI.ctl"/>
+				<Item Name="1BS3HD Signals.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Signals.ctl"/>
 				<Item Name="State_4ch_v00.vi" Type="VI" URL="../Project_Files/FPGA VIs/SubVIs/State_4ch_v00.vi"/>
-				<Item Name="Theta graph.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Theta graph.ctl"/>
+				<Item Name="1BS3HD Theta.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Theta.ctl"/>
 				<Item Name="Threshold_4ch_v00.vi" Type="VI" URL="../Project_Files/FPGA VIs/SubVIs/Threshold_4ch_v00.vi"/>
 				<Item Name="niFpgaGetScratchAppInstance.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/niFpgaGetScratchAppInstance.vi"/>
 				<Item Name="nirviEmuReportErrorAndStop.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/nirviEmuReportErrorAndStop.vi"/>
@@ -3283,107 +3283,154 @@ AddOutputFilter chunkFilter
 				</Item>
 			</Item>
 		</Item>
+		<Item Name="DAQ 1SDI v6.1.vi" Type="VI" URL="../Project_Files/DAQ VIs/DAQ 1SDI v6.1.vi"/>
 		<Item Name="Top_Level_Control_1SDI_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/Top_Level_Control_1SDI_v00.vi"/>
-		<Item Name="DAQ 1SDI v05.vi" Type="VI" URL="../Project_Files/DAQ VIs/DAQ 1SDI v05.vi"/>
+		<Item Name="DAQ 1SDI v05.1.vi" Type="VI" URL="../Project_Files/DAQ VIs/DAQ 1SDI v05.1.vi"/>
 		<Item Name="Init2DAQ.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Init2DAQ.vi"/>
 		<Item Name="DAQ 1SDI v06.vi" Type="VI" URL="../Project_Files/DAQ VIs/DAQ 1SDI v06.vi"/>
 		<Item Name="Record2DAQ.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Record2DAQ.vi"/>
+		<Item Name="Monitor2DAQ.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Monitor2DAQ.vi"/>
+		<Item Name="Monitors_EPR_v00_whale_a.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Monitors_EPR_v00_whale_a.vi"/>
+		<Item Name="DAQ 1SDI v6.1_whale_a.vi" Type="VI" URL="../Project_Files/DAQ VIs/DAQ 1SDI v6.1_whale_a.vi"/>
+		<Item Name="Monitors_EPR_v01.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Monitors_EPR_v01.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="instr.lib" Type="Folder">
-				<Item Name="niScope vertical coupling.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope vertical coupling.ctl"/>
-				<Item Name="niScope Fetch Error Chain.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Error Chain.vi"/>
-				<Item Name="niScope Multi Fetch Binary 16.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Binary 16.vi"/>
+				<Item Name="niScope Abort.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Abort.vi"/>
+				<Item Name="niScope Acquisition Status.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Acquisition Status.vi"/>
+				<Item Name="niScope clock sync pulse source.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope clock sync pulse source.ctl"/>
+				<Item Name="niScope Close.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/niScope Close.vi"/>
+				<Item Name="niScope Configure Chan Characteristics.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Vertical/niScope Configure Chan Characteristics.vi"/>
+				<Item Name="niScope Configure Clock.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Horizontal/niScope Configure Clock.vi"/>
+				<Item Name="niScope Configure Horizontal Timing.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Horizontal/niScope Configure Horizontal Timing.vi"/>
+				<Item Name="niScope Configure Trigger (poly).vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger (poly).vi"/>
+				<Item Name="niScope Configure Trigger Digital.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Digital.vi"/>
+				<Item Name="niScope Configure Trigger Edge.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Edge.vi"/>
+				<Item Name="niScope Configure Trigger Hysteresis.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Hysteresis.vi"/>
 				<Item Name="niScope Configure Trigger Immediate.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Immediate.vi"/>
-				<Item Name="niScope Sample Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Horizontal/niScope Sample Rate.vi"/>
-				<Item Name="niScope timestamp type.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope timestamp type.ctl"/>
-				<Item Name="niScope Multi Fetch Complex WDT.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Complex WDT.vi"/>
-				<Item Name="niScope Fetch Complex WDT.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Complex WDT.vi"/>
-				<Item Name="niScope Multi Fetch Cluster Complex Double.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Cluster Complex Double.vi"/>
-				<Item Name="niScope Fetch Cluster Complex Double.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Cluster Complex Double.vi"/>
-				<Item Name="niScope Multi Fetch Complex Double.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Complex Double.vi"/>
-				<Item Name="niScope Fetch Complex Double.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Complex Double.vi"/>
-				<Item Name="niScope Fetch WDT.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch WDT.vi"/>
-				<Item Name="niScope Multi Fetch.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch.vi"/>
-				<Item Name="niScope Fetch.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch.vi"/>
-				<Item Name="niScope Multi Fetch Cluster.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Cluster.vi"/>
-				<Item Name="niScope Fetch Cluster.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Cluster.vi"/>
-				<Item Name="niScope Multi Fetch Binary 8.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Binary 8.vi"/>
-				<Item Name="niScope Fetch Binary 32.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Binary 32.vi"/>
-				<Item Name="niScope Multi Fetch Binary 32.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Binary 32.vi"/>
-				<Item Name="niScope Fetch Binary 16.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Binary 16.vi"/>
-				<Item Name="niScope Fetch Binary 8.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Binary 8.vi"/>
+				<Item Name="niScope Configure Trigger Software.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Software.vi"/>
+				<Item Name="niScope Configure Trigger Window.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Window.vi"/>
+				<Item Name="niScope Configure Vertical.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Vertical/niScope Configure Vertical.vi"/>
+				<Item Name="niScope Configure Video Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Video Trigger.vi"/>
+				<Item Name="niScope export destinations.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope export destinations.ctl"/>
+				<Item Name="niScope Export Signal.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Export Signal.vi"/>
+				<Item Name="niScope exportable signals.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope exportable signals.ctl"/>
 				<Item Name="niScope Fetch (poly).vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch (poly).vi"/>
+				<Item Name="niScope Fetch Binary 8.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Binary 8.vi"/>
+				<Item Name="niScope Fetch Binary 16.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Binary 16.vi"/>
+				<Item Name="niScope Fetch Binary 32.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Binary 32.vi"/>
+				<Item Name="niScope Fetch Cluster Complex Double.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Cluster Complex Double.vi"/>
+				<Item Name="niScope Fetch Cluster.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Cluster.vi"/>
+				<Item Name="niScope Fetch Complex Double.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Complex Double.vi"/>
+				<Item Name="niScope Fetch Complex WDT.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Complex WDT.vi"/>
+				<Item Name="niScope Fetch Error Chain.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch Error Chain.vi"/>
+				<Item Name="niScope Fetch WDT.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch WDT.vi"/>
+				<Item Name="niScope Fetch.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Fetch.vi"/>
+				<Item Name="niScope Get Session Reference.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Utility/niScope Get Session Reference.vi"/>
 				<Item Name="niScope Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/niScope Initialize.vi"/>
 				<Item Name="niScope Initiate Acquisition.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Initiate Acquisition.vi"/>
-				<Item Name="niScope trigger source.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger source.ctl"/>
-				<Item Name="niScope signal format.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope signal format.ctl"/>
-				<Item Name="niScope trigger coupling.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger coupling.ctl"/>
-				<Item Name="niScope polarity.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope polarity.ctl"/>
-				<Item Name="niScope tv event.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope tv event.ctl"/>
-				<Item Name="niScope Configure Video Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Video Trigger.vi"/>
-				<Item Name="niScope trigger window mode.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger window mode.ctl"/>
-				<Item Name="niScope Configure Trigger Window.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Window.vi"/>
-				<Item Name="niScope Configure Trigger Software.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Software.vi"/>
-				<Item Name="niScope trigger slope.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger slope.ctl"/>
-				<Item Name="niScope Configure Trigger Hysteresis.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Hysteresis.vi"/>
-				<Item Name="niScope Configure Trigger Edge.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Edge.vi"/>
-				<Item Name="niScope trigger source digital.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger source digital.ctl"/>
-				<Item Name="niScope Configure Trigger Digital.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Digital.vi"/>
-				<Item Name="niScope Configure Trigger (poly).vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger (poly).vi"/>
-				<Item Name="niScope Configure Vertical.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Vertical/niScope Configure Vertical.vi"/>
-				<Item Name="niScope Configure Chan Characteristics.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Vertical/niScope Configure Chan Characteristics.vi"/>
-				<Item Name="niScope Configure Horizontal Timing.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Horizontal/niScope Configure Horizontal Timing.vi"/>
-				<Item Name="niScope Get Session Reference.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Utility/niScope Get Session Reference.vi"/>
-				<Item Name="niScope Close.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/niScope Close.vi"/>
-				<Item Name="niScope LabVIEW Error.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Utility/niScope LabVIEW Error.vi"/>
-				<Item Name="niScope Multi Fetch WDT.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch WDT.vi"/>
-				<Item Name="niScope output clock source.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope output clock source.ctl"/>
-				<Item Name="niScope clock sync pulse source.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope clock sync pulse source.ctl"/>
 				<Item Name="niScope input clock source.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope input clock source.ctl"/>
-				<Item Name="niScope Configure Clock.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Horizontal/niScope Configure Clock.vi"/>
+				<Item Name="niScope LabVIEW Error.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Utility/niScope LabVIEW Error.vi"/>
+				<Item Name="niScope Multi Fetch Binary 8.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Binary 8.vi"/>
+				<Item Name="niScope Multi Fetch Binary 16.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Binary 16.vi"/>
+				<Item Name="niScope Multi Fetch Binary 32.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Binary 32.vi"/>
+				<Item Name="niScope Multi Fetch Cluster Complex Double.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Cluster Complex Double.vi"/>
+				<Item Name="niScope Multi Fetch Cluster.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Cluster.vi"/>
+				<Item Name="niScope Multi Fetch Complex Double.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Complex Double.vi"/>
+				<Item Name="niScope Multi Fetch Complex WDT.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch Complex WDT.vi"/>
+				<Item Name="niScope Multi Fetch WDT.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch WDT.vi"/>
+				<Item Name="niScope Multi Fetch.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/Fetch/niScope Multi Fetch.vi"/>
+				<Item Name="niScope output clock source.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope output clock source.ctl"/>
+				<Item Name="niScope polarity.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope polarity.ctl"/>
+				<Item Name="niScope Sample Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Horizontal/niScope Sample Rate.vi"/>
+				<Item Name="niScope signal format.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope signal format.ctl"/>
+				<Item Name="niScope timestamp type.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope timestamp type.ctl"/>
+				<Item Name="niScope trigger coupling.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger coupling.ctl"/>
+				<Item Name="niScope trigger slope.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger slope.ctl"/>
+				<Item Name="niScope trigger source digital.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger source digital.ctl"/>
+				<Item Name="niScope trigger source.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger source.ctl"/>
+				<Item Name="niScope trigger window mode.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger window mode.ctl"/>
+				<Item Name="niScope tv event.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope tv event.ctl"/>
+				<Item Name="niScope vertical coupling.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope vertical coupling.ctl"/>
 				<Item Name="niScope which signal.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope which signal.ctl"/>
-				<Item Name="niScope export destinations.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope export destinations.ctl"/>
-				<Item Name="niScope exportable signals.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope exportable signals.ctl"/>
-				<Item Name="niScope Export Signal.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Export Signal.vi"/>
+				<Item Name="niTClk Configure For Homogeneous Triggers.vi" Type="VI" URL="/&lt;instrlib&gt;/niTClk/niTClk.llb/niTClk Configure For Homogeneous Triggers.vi"/>
+				<Item Name="niTClk Fill In Error Info.vi" Type="VI" URL="/&lt;instrlib&gt;/niTClk/niTClk.llb/niTClk Fill In Error Info.vi"/>
+				<Item Name="niTClk Initiate.vi" Type="VI" URL="/&lt;instrlib&gt;/niTClk/niTClk.llb/niTClk Initiate.vi"/>
+				<Item Name="niTClk Synchronize.vi" Type="VI" URL="/&lt;instrlib&gt;/niTClk/niTClk.llb/niTClk Synchronize.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Check for Equality.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Check for Equality.vi"/>
+				<Item Name="DU64_U32SubtractWithBorrow.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/TSOps.llb/DU64_U32SubtractWithBorrow.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="I128 Timestamp.ctl" Type="VI" URL="/&lt;vilib&gt;/Waveform/TSOps.llb/I128 Timestamp.ctl"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="NI_MABase.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MABase.lvlib"/>
-				<Item Name="Check for Equality.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Check for Equality.vi"/>
-				<Item Name="DU64_U32SubtractWithBorrow.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/TSOps.llb/DU64_U32SubtractWithBorrow.vi"/>
-				<Item Name="I128 Timestamp.ctl" Type="VI" URL="/&lt;vilib&gt;/Waveform/TSOps.llb/I128 Timestamp.ctl"/>
-				<Item Name="Timestamp Subtract.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/TSOps.llb/Timestamp Subtract.vi"/>
 				<Item Name="NI_MAPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MAPro.lvlib"/>
+				<Item Name="Timestamp Subtract.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/TSOps.llb/Timestamp Subtract.vi"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="1SDI Control dummy.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1SDI Control dummy.ctl"/>
-			<Item Name="1SDI Errors I16.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1SDI Errors I16.ctl"/>
-			<Item Name="Control GUI 1SDI EPR.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Control GUI 1SDI EPR.ctl"/>
-			<Item Name="Control GUI 1SDI HD.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Control GUI 1SDI HD.ctl"/>
-			<Item Name="Convert_1SDI_HD_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/SubVIs/Convert_1SDI_HD_v00.vi"/>
-			<Item Name="Convert_1SDI_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/SubVIs/Convert_1SDI_v00.vi"/>
+			<Item Name="1BS3HD BinaryRecord.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/1BS3HD BinaryRecord.vi"/>
+			<Item Name="1BS3HD Control dummy.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Control dummy.ctl"/>
+			<Item Name="1BS3HD Control GUI EPR.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Control GUI EPR.ctl"/>
+			<Item Name="1BS3HD Control GUI HD.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Control GUI HD.ctl"/>
+			<Item Name="1BS3HD Double control.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Double control.ctl"/>
+			<Item Name="1BS3HD Error Scale.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Error Scale.ctl"/>
+			<Item Name="1BS3HD Errors I16.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Errors I16.ctl"/>
+			<Item Name="1BS3HD Extras.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Extras.ctl"/>
+			<Item Name="1BS3HD I16 Control.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD I16 Control.ctl"/>
+			<Item Name="1BS3HD Lock Select.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Lock Select.ctl"/>
+			<Item Name="1BS3HD Lock Thresh.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Lock Thresh.ctl"/>
+			<Item Name="1BS3HD Theta.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/1BS3HD Theta.ctl"/>
+			<Item Name="1BS3HD_Convert_HD_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/SubVIs/1BS3HD_Convert_HD_v00.vi"/>
+			<Item Name="1BS3HD_Convert_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/SubVIs/1BS3HD_Convert_v00.vi"/>
+			<Item Name="1BS3HD_Scope_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/SubVIs/1BS3HD_Scope_v00.vi"/>
+			<Item Name="1BS3HD_Tidy_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/SubVIs/1BS3HD_Tidy_v00.vi"/>
+			<Item Name="binary record both ch_v01.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/binary record both ch_v01.vi"/>
 			<Item Name="DAQX mod 1SDI v02.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/DAQX mod 1SDI v02.vi"/>
-			<Item Name="Double ISDI control.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Double ISDI control.ctl"/>
-			<Item Name="Error Scale 1SDI.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Error Scale 1SDI.ctl"/>
 			<Item Name="Errors Converted Graph HD.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Errors Converted Graph HD.ctl"/>
 			<Item Name="Errors Converted Graph.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Errors Converted Graph.ctl"/>
-			<Item Name="Extras 1SDI.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Extras 1SDI.ctl"/>
 			<Item Name="Extras PII 1SDI HD.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Extras PII 1SDI HD.ctl"/>
 			<Item Name="Extras PII 1SDI.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Extras PII 1SDI.ctl"/>
 			<Item Name="Extras_1SDI.vi" Type="VI" URL="../Project_Files/Top Level VIs/SubVIs/Extras_1SDI.vi"/>
+			<Item Name="Files_names_v02.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Files_names_v02.vi"/>
 			<Item Name="Gains negative horizontal.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Gains negative horizontal.ctl"/>
 			<Item Name="Hold All.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Hold All.ctl"/>
-			<Item Name="I16 1SDI Control.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/I16 1SDI Control.ctl"/>
 			<Item Name="I16 white control.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/I16 white control.ctl"/>
 			<Item Name="Lock or Hold.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Lock or Hold.ctl"/>
-			<Item Name="Lock Select 1SDI.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Lock Select 1SDI.ctl"/>
-			<Item Name="Lock Thresh 1SDI.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Lock Thresh 1SDI.ctl"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="max_min_error_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/SubVIs/max_min_error_v00.vi"/>
+			<Item Name="Monitors_EPR_v00.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Monitors_EPR_v00.vi"/>
+			<Item Name="niFpgaDynamicAddResources.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/dynamic/niFpgaDynamicAddResources.vi"/>
+			<Item Name="niFpgaHostInterfaceSession.ctl" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/Targets/NI/FPGA/StockFPGA_IntfPrivate/ScriptTemplates/niFpgaHostInterfaceSession.ctl"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
+			<Item Name="niFpgaSimulationCallBeginRW.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/Simulation/niFpgaSimulationCallBeginRW.vi"/>
+			<Item Name="niFpgaWaitOnOcc.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaWaitOnOcc.vi"/>
+			<Item Name="niLvFpga_Close_Dynamic.vi" Type="VI" URL="/&lt;vilib&gt;/FPGAPlugInAG/Dynamic/niLvFpga_Close_Dynamic.vi"/>
+			<Item Name="niLvFpga_Open_PXI-7852R.vi" Type="VI" URL="/&lt;vilib&gt;/FPGAPlugInAG/PXI-7852R/niLvFpga_Open_PXI-7852R.vi"/>
+			<Item Name="niLvFpga_ReadFifo_Dynamic.vi" Type="VI" URL="/&lt;vilib&gt;/FPGAPlugInAG/Dynamic/niLvFpga_ReadFifo_Dynamic.vi"/>
+			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
+			<Item Name="niLvFpgaErrorClusterFromErrorCode.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaErrorClusterFromErrorCode.vi"/>
+			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
+			<Item Name="niLvFpgaMergeErrorWithErrorCode.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaMergeErrorWithErrorCode.vi"/>
+			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
+			<Item Name="nirio_resource_hc.ctl" Type="VI" URL="/&lt;vilib&gt;/userdefined/High Color/nirio_resource_hc.ctl"/>
+			<Item Name="nirviCommon.vi" Type="VI" URL="/&lt;vilib&gt;/express/rvi/timingcommon/nirviCommon.vi"/>
+			<Item Name="nirviErrorClusterFromErrorCode.vi" Type="VI" URL="/&lt;vilib&gt;/RVI Host/nirviSupport.llb/nirviErrorClusterFromErrorCode.vi"/>
+			<Item Name="nirviWhatTheDeviceIsDoing.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/ClientSDK/nirviWhatTheDeviceIsDoing.ctl"/>
+			<Item Name="niScope_32.dll" Type="Document" URL="niScope_32.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="niTClk.dll" Type="Document" URL="niTClk.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 			<Item Name="Pack PII Error_1SDI_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/SubVIs/Pack PII Error_1SDI_v00.vi"/>
+			<Item Name="Parameters_file_v01.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Parameters_file_v01.vi"/>
+			<Item Name="PI-state-4-phase_FPGATarget_3HD1BSFPGAv00_skdKazwPNYA.lvbitx" Type="Document" URL="../FPGA Bitfiles/PI-state-4-phase_FPGATarget_3HD1BSFPGAv00_skdKazwPNYA.lvbitx"/>
 			<Item Name="PII and Error Graph HD.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/PII and Error Graph HD.ctl"/>
 			<Item Name="PII and Error Graph.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/PII and Error Graph.ctl"/>
 			<Item Name="PII Gains.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/PII Gains.ctl"/>
@@ -3391,24 +3438,11 @@ AddOutputFilter chunkFilter
 			<Item Name="Safety First.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Safety First.ctl"/>
 			<Item Name="Scan Freq Slider.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Scan Freq Slider.ctl"/>
 			<Item Name="Scope and Safety.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Scope and Safety.ctl"/>
-			<Item Name="Scope_1SDI_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/SubVIs/Scope_1SDI_v00.vi"/>
+			<Item Name="shotnoise.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/shotnoise.vi"/>
 			<Item Name="Slider and display.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Slider and display.ctl"/>
 			<Item Name="theta 1SDI.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/theta 1SDI.ctl"/>
-			<Item Name="Theta graph.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Theta graph.ctl"/>
 			<Item Name="Thresh slider.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Thresh slider.ctl"/>
-			<Item Name="Tidy_1SDI_v00.vi" Type="VI" URL="../Project_Files/Top Level VIs/SubVIs/Tidy_1SDI_v00.vi"/>
 			<Item Name="type_meas_enum.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/type_meas_enum.ctl"/>
-			<Item Name="Monitors_EPR_v00.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Monitors_EPR_v00.vi"/>
-			<Item Name="niScope_32.dll" Type="Document" URL="niScope_32.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="binary record both ch_v01.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/binary record both ch_v01.vi"/>
-			<Item Name="Parameters_file_v01.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Parameters_file_v01.vi"/>
-			<Item Name="Files_names_v02.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Files_names_v02.vi"/>
-			<Item Name="Monitor switches.ctl" Type="VI" URL="../Project_Files/Strict Type Defs/Monitor switches.ctl"/>
-			<Item Name="shotnoise.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/shotnoise.vi"/>
-			<Item Name="BinaryRecordCh012.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/BinaryRecordCh012.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
