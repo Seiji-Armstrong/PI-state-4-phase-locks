@@ -3293,6 +3293,9 @@ AddOutputFilter chunkFilter
 		<Item Name="Monitors_EPR_v00_whale_a.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Monitors_EPR_v00_whale_a.vi"/>
 		<Item Name="DAQ 1SDI v6.1_whale_a.vi" Type="VI" URL="../Project_Files/DAQ VIs/DAQ 1SDI v6.1_whale_a.vi"/>
 		<Item Name="Monitors_EPR_v01.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Monitors_EPR_v01.vi"/>
+		<Item Name="DAQ 1SDI vEPR.vi" Type="VI" URL="../Project_Files/DAQ VIs/DAQ 1SDI vEPR.vi"/>
+		<Item Name="Monitors_EPR_v02.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Monitors_EPR_v02.vi"/>
+		<Item Name="Monitors_EPR_v03.vi" Type="VI" URL="../Project_Files/DAQ VIs/Sub VIs/Monitors_EPR_v03.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="instr.lib" Type="Folder">
